@@ -7,4 +7,5 @@
 	 - <a>https://www.bilibili.com</a>  
 	 - <button>按钮</button>  
 	 - 而且支持emoji很可爱的
-	 - 支持线上修改md也太牛了
+ - github可以识别md并且可以对.md做些自动的修改
+ - 与html兼容性好
