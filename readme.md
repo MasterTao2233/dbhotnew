@@ -9,5 +9,5 @@
 	 - 而且支持emoji很可爱的😫
  - github可以识别md并且可以对.md做些自动的修改
  - 与html兼容性好，这种兼容性体现在我可以写div标签并且在里面加颜色
-	<div style='color: blue;'>蓝色可爱捏</div>
+<span style="color: blue;">红色可爱捏</span>
  
