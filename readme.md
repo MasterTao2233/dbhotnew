@@ -6,6 +6,8 @@
  - 和前端html耦合的很好 你甚至可以直接写html标签
 	 - <a>https://www.bilibili.com</a>  
 	 - <button>按钮</button>  
-	 - 而且支持emoji很可爱的
+	 - 而且支持emoji很可爱的😫
  - github可以识别md并且可以对.md做些自动的修改
- - 与html兼容性好
+ - 与html兼容性好，这种兼容性体现在我可以写div标签并且在里面加颜色
+	<div style='color: blue;'>蓝色可爱捏</div>
+ 
